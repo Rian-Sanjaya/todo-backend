@@ -12,8 +12,8 @@
 
 ## Link to live app: https://aqueous-cove-96487.herokuapp.com/todo
 
-Get: /todo
-Post: /todo
-Delete: /todo/:id
-Get: /todo/:id
-Put: /todo/:id
+###Get: /todo
+###Post: /todo
+###Delete: /todo/:id
+###Get: /todo/:id
+###Put: /todo/:id
