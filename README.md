@@ -9,3 +9,5 @@
 - go to todo-backend directory
 - type: npm install
 - type: node server.js
+
+## Link to live app: https://aqueous-cove-96487.herokuapp.com/todo
